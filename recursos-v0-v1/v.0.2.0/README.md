@@ -7,4 +7,4 @@
 
 ## Executar imagem
 * executando a imagem
-   : docker container run --name jenkins-v010 -p 8080:8080 renatoschlogel/missaodevopsjenkins:0.2.0
+   : docker container run --name jenkins-v020 -p 8080:8080 renatoschlogel/missaodevopsjenkins:0.2.0
