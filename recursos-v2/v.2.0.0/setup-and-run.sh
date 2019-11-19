@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-dockerhub_user=rodrigogrohl
+dockerhub_user=renatoschlogel
 
 jenkins_port=8080
-image_name=missao-devops-jenkins
+image_name=missaodevopsjenkins
 image_version=2.0.0
 container_name=md-jenkins
 
